@@ -62,7 +62,7 @@ html ,body{
 }
 
 .main .cal{
-  margin-top:150px;
+  margin-top:100px;
   
 }
 
@@ -77,7 +77,7 @@ html ,body{
 .main .Buttons .eql{
   position: absolute;
   margin-left:113px;
-  top:640px;
+  top:646px;
   width:114px;
   height: 220px;
   background-color:#FB772F;
